@@ -1,0 +1,183 @@
+div.relative {
+  position: relative;
+  width: 250px;
+  height: 300px;
+  margin-top: -50px;
+  margin-left: 100px;
+  border: 3px solid greenyellow;
+  background-color: greenyellow;
+}
+
+div.absolute {
+  position:absolute;
+  top: 100px;
+  left: 130px;
+  height: 100px;
+  border: 3px solid greenyellow; 
+}
+
+.text{
+    margin-left: 50px;
+    margin-top: -150px;
+    margin-bottom: 100px;
+}
+
+.relative1{
+    position: relative;
+    height: 500px;
+}
+
+.absolute1{
+    position:absolute;
+    top: 0px;
+    left: 100px;
+    height: 350px;
+    font-size: 60px;
+    
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+}
+
+.right p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 65px;
+    font-weight: 700;
+    margin-top: -6px;
+}
+
+.d1 h4{
+    color:green;
+}
+.d2 h4{
+    color:green;
+}
+
+.mywork{
+    margin-left: 200px;
+}
+
+.mywork a:link{
+    color: green;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+.row1{
+    margin-left: 20px;
+}
+
+.relative2{
+    position: relative;
+    height: 500px;
+    background-color: greenyellow;
+}
+
+.absolute2{
+    position:absolute;
+    top: 0px;
+    left: 370px;
+    height: 300px;
+    width: 400px;
+    font-size: 70px;
+    background-color: greenyellow;
+    
+}
+
+.right2{
+    display: flex;
+    flex-direction: column;
+
+}
+.right2 p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 65px;
+    font-weight:700;
+    margin-top: -6px;
+    text-align: left;
+    color: aliceblue;
+}
+
+.right3{
+    display: flex;
+    flex-direction: column;
+
+}
+.right3 p{
+    margin: 0px;
+    padding: 0px;
+    font-size: 65px;
+    font-weight:700;
+    margin-top: -6px;
+    text-align: left;
+    color: green;
+    margin-left: 50px;
+}
+
+.right3{
+    margin-left: 50px;
+}
+
+.reading{
+    top: 0px;
+    margin-left: 400px;
+    margin-top: -190px;
+}
+
+.bat{
+    margin-left: 400px;
+    margin-top: -390px;
+}
+
+.relative4{
+    position: relative;
+    height: 250px;
+    background-color: greenyellow;
+    width: 500px;
+}
+
+.absolute4{
+    position:absolute;
+    top: 0px;
+    left: 100px;
+    height: 350px;
+    font-size: 60px;
+    width: 0px;
+    
+}
+
+.right4{
+    display: flex;
+    flex-direction: column;
+    align-items:flex-start;
+}
+
+.right4 p{
+    padding-top: 30px;
+    font-size: 50px;
+    font-weight: 700;
+    margin-top: -6px;
+}
+.right4 a:link{
+    font-size:medium;
+    color: gray;
+}
+.all{
+    margin-left: 550px;
+    margin-top: 200px;
+}
+.t1{
+    margin-left: 50px;
+}
+
+
+.t2{
+    margin-left: 50px;
+}
+.t3{
+    margin-left: 50px;
+}
